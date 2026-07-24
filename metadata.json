@@ -1,0 +1,6 @@
+{
+  "name": "WebGL Fluid Simulation",
+  "description": "High-performance GPU fluid simulation with neon blooms, vorticity confinement, multi-color dyes, and Spacebar burst triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
